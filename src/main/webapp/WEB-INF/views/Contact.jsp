@@ -16,6 +16,10 @@ INFO: Completed initialization in 6384 ms
 Aug 10, 2021 4:28:25 PM org.apache.catalina.core.StandardContext reload
 INFO: Reloading Context with name [/secondtake] is completed
 </p>
-
+<p>INFO: Completed initialization in 6384 ms
+Aug 10, 2021 4:28:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/secondtake] is completedINFO: Completed initialization in 6384 ms
+Aug 10, 2021 4:28:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/secondtake] is completed</p>
 </body>
 </html>
