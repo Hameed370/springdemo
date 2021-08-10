@@ -18,6 +18,8 @@ public class UserController {
 		return "Register";
 	}
 	
+	
+	//this method is for adding user to the db and redirect to login page
 	@RequestMapping("/add")
 	public String add(@ModelAttribute("user") User u) {
 		System.out.println(u);
